@@ -20,6 +20,11 @@ const quizData = [
         answer: 0
 
     },
+    {
+        question:"How can you create a new array in JavaScript?",
+        options:["New Array()","CreateArray()", "[] (empty square brackets)", "newArray()"],
+        answer: 0
+    },
 ];
 
 const quizContainer = document.getElementById("quiz");
